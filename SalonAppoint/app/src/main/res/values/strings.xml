@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SalonAppoint</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--<string name="app_name">Swiggy</string>-->
+    <string name="now">NOW</string>
+    <string name="home">Home</string>
+    <string name="offers">Offers</string>
+    <string name="staying_up_late_let_us_serve_you">Staying up late? Let us serve you.</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>

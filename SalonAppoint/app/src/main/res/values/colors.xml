@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorTwo">#008577</color>
+    <color name="colorPrimary">#EB8003</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorOne">#0F0E0E</color>
+    <color name="colorPrimaryDark">#707070</color>
+    <color name="colorTopBar">#e9e8e8</color>
+    <color name="colorAppBar">#0B393C</color>
+    <color name="colorView">#707070</color>
+    <color name="colorConstraintBackground">#616060</color>
+</resources>
